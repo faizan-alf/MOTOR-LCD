@@ -145,7 +145,7 @@ The condition checks RB0 and RB1 (active low). Change logic as needed for your a
 
 ## 🗺️ Schematic Diagram
 
-![Schematic](motor_lcd.png)
+![image alt](https://github.com/faizan-alf/MOTOR-LCD/blob/8cc9c3031fb18d77ef215f48d8bbcedd6d64fd9c/motor_lcd.png)
 
 ---
 
